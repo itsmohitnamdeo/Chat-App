@@ -17,22 +17,27 @@ This project is a simple chat application built with React, Node.js, Express.js,
 ```
 git clone https://github.com/itsmohitnamdeo/Chat-App.git
 
+```
+
 2. Navigate to the project directory:
 
 ```
 cd Chat-App
+
 ```
 
 3. Install dependencies:
 
 ```
 npm install
+
 ```
 
 4. Start the server:
 
 ```
 npm start
+
 ```
 
 5. Open your web browser and go to `http://localhost:3000`.
