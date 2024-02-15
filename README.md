@@ -4,7 +4,7 @@ This project is a simple chat application. It allows users to join a chat room, 
 
 ## Features
 
-- Create UI with React that allows users to click a 'Start chatting' button and enter a chat screen.
+- Chat UI that allows users to click a 'Start chatting' button and enter a chat screen.
 - Users can input text and send it, with the text being visible on the chat screen for all connected users.
 - Multiple users can join the same chat room and start chatting, with their messages appearing in real-time.
 - Real-time communication is handled using WebSockets through Socket.IO.
