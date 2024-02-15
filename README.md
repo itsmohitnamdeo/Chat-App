@@ -1,6 +1,6 @@
 # Chat App
 
-This project is a simple chat application built with React, Node.js, Express.js, and Socket.IO. It allows users to join a chat room, send messages, and view messages from other users in real-time.
+This project is a simple chat application. It allows users to join a chat room, send messages, and view messages from other users in real-time.
 
 ## Features
 
@@ -43,13 +43,6 @@ npm start
 5. Open your web browser and go to `http://localhost:3000`.
 
 6. Click on the 'Start chatting' button to enter the chat room.
-
-## Credits
-
-- [React](https://reactjs.org/) - JavaScript library for building user interfaces.
-- [Node.js](https://nodejs.org/) - JavaScript runtime environment.
-- [Express.js](https://expressjs.com/) - Web application framework for Node.js.
-- [Socket.IO](https://socket.io/) - Real-time bidirectional event-based communication.
 
 ## Contact
 
